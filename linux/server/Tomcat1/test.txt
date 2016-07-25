@@ -1,8 +1,0 @@
-DraggedImage-1.png
-DraggedImage-2.png
-DraggedImage-3.png
-DraggedImage.png
-New Mockup 21_4.png
-New Mockup 21_7.png
-New Mockup 23_2.png
-test.txt
